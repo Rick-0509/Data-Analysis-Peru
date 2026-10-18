@@ -1,4 +1,4 @@
-# 🇵🇪 Análisis de Datos | Perú
+#  Análisis de Datos | Perú
 
 ### 📊 De los datos públicos a los insights que generan valor.
 
@@ -97,7 +97,7 @@ Exploro, proceso y analizo datos para convertir información en resultados útil
 | [INEI — ENAHO](https://www.inei.gob.pe/) | Encuesta Nacional de Hogares |
 | [MEF — Transparencia Económica](https://apps5.mineco.gob.pe/transparencia/mensual/) | Presupuesto y ejecución del gasto público |
 | [MEF — Datos Abiertos](https://datosabiertos.mef.gob.pe/) | Datos presupuestales descargables |
-| [Hágase Instituto](https://hagaseinstituto.org/distancias/) | Mapa de las Distancias del Perú |
+ Mapa de las Distancias del Perú 
 
 ---
 
@@ -111,8 +111,6 @@ Exploro, proceso y analizo datos para convertir información en resultados útil
 ---
 
 ## 👨‍💻 Sobre este portafolio
-
-Soy **Ricardo Valverde Puma**, de formación en Economía, interesado en el análisis estadístico, la automatización y la inteligencia de negocios.
 
 Mi objetivo es desarrollar soluciones que conecten los datos con preguntas reales, utilizando herramientas cuantitativas y tecnológicas.
 
