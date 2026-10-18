@@ -1,69 +1,130 @@
-Análisis de Datos del Perú 🇵🇪
+# 🇵🇪 Análisis de Datos | Perú
 
-Repositorio de proyectos de análisis de datos públicos del Perú, orientados al procesamiento estadístico, la evaluación presupuestal y la visualización de información para la toma de decisiones.
+### 📊 De los datos públicos a los insights que generan valor.
 
-📌 Proyectos
+Exploro, proceso y analizo datos para convertir información en resultados útiles para la toma de decisiones. Este repositorio reúne proyectos de análisis estadístico, presupuesto público y visualización de datos del Perú.
 
-1. Análisis de ENAHO 2024–2025
+<p align="center">
+  <img src="https://img.shields.io/badge/Stata-Estadística-1F4E79?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Visualización-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-Reporting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
-Herramienta: Stata.
+---
 
-Archivo principal: ENAHO_SIS_SALUD_FINAL_REVISAR.do.
+## 🚀 Proyectos destacados
 
-Análisis de afiliación a sistemas de salud (SIS y EsSalud).
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Procesamiento de información sobre ingresos de la ocupación principal.
+### 📈 01. ENAHO 2024–2025
 
-Resultados complementarios en archivos Excel.
+**Análisis estadístico y socioeconómico**
 
-2. Ejecución presupuestal del Gobierno Regional de Piura
+- Evaluación de afiliación al SIS y EsSalud.
+- Procesamiento de ingresos de la ocupación principal.
+- Desarrollo de código estadístico en Stata.
+- Resultados organizados en Excel.
 
-Herramienta: Python.
+**Tecnologías:** `Stata` `Excel`
 
-Archivo principal: ejecucion_piura_2026.ipynb.
+</td>
+<td width="50%" valign="top">
 
-Análisis de datos de presupuesto y ejecución del gasto público en inversión.
+### 💰 02. Presupuesto público — Piura
 
-Resultados organizados en archivos Excel.
+**Análisis de inversión y ejecución presupuestal**
 
-Fuente oficial: Portal de Transparencia Económica del MEF
+- Procesamiento de datos presupuestales.
+- Trabajo con Python y Jupyter Notebook.
+- Organización de resultados para su análisis.
+- Uso de fuentes oficiales del MEF.
 
-Datos abiertos: Presupuesto y ejecución del gasto – MEF
+**Tecnologías:** `Python` `Pandas` `Jupyter` `Excel`
 
-3. Análisis territorial del Perú
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Herramienta prevista: Power BI.
+### 🗺️ 03. Distancias del Perú
 
-Visualización de indicadores territoriales mediante mapas.
+**Análisis territorial y visualización**
 
-Proyecto basado en la información disponible en el Mapa de las Distancias del Perú.
+- Exploración de indicadores territoriales.
+- Preparación de información para mapas.
+- Desarrollo de visualizaciones en Power BI.
 
-Fuente: Hágase Instituto – Mapa de las Distancias
+**Tecnología:** `Power BI`
 
-El dashboard de Power BI se incorporará cuando el archivo .pbix esté disponible.
+*Dashboard en desarrollo.*
 
-🛠️ Tecnologías
+</td>
+<td width="50%" valign="top">
 
-Stata: procesamiento y análisis estadístico.
+### 🎯 Enfoque de trabajo
 
-Python: automatización y análisis de datos.
+- Limpieza y transformación de datos.
+- Análisis estadístico.
+- Automatización de procesos.
+- Elaboración de reportes.
+- Visualización para la toma de decisiones.
 
-Jupyter Notebook: desarrollo y documentación del código.
+</td>
+</tr>
+</table>
 
-Excel: organización y presentación de resultados.
+---
 
-Power BI: visualización y análisis territorial.
+## 🧰 Mi stack tecnológico
 
-📂 Estructura del repositorio
+| Área | Herramientas |
+|---|---|
+| Análisis estadístico | Stata, Python |
+| Procesamiento de datos | Pandas, Jupyter Notebook |
+| Reportes y resultados | Microsoft Excel |
+| Business Intelligence | Power BI |
+| Fuentes de información | ENAHO, MEF y datos públicos |
 
-Analisis-de-Datos-peru/
-├── ENAHO_SIS_SALUD_FINAL_REVISAR.do
-├── ejecucion_piura_2026.ipynb
-├── Respuesta Pregunta 1.a.xlsx
-├── Respuesta Pregunta 1.b.xlsx
-├── Respuesta Pregunta 2.xlsx
-└── ANALISIS DE DATOS_PERÚ.pdf
+---
 
-🎯 Objetivo
+## 🌐 Fuentes de datos
 
-Documentar el proceso de análisis de datos públicos, desde la preparación y transformación de los datos hasta la generación de resultados que faciliten la interpretación de información estadística, presupuestal y territorial.
+| Fuente | Información |
+|---|---|
+| [INEI — ENAHO](https://www.inei.gob.pe/) | Encuesta Nacional de Hogares |
+| [MEF — Transparencia Económica](https://apps5.mineco.gob.pe/transparencia/mensual/) | Presupuesto y ejecución del gasto público |
+| [MEF — Datos Abiertos](https://datosabiertos.mef.gob.pe/) | Datos presupuestales descargables |
+| [Hágase Instituto](https://hagaseinstituto.org/distancias/) | Mapa de las Distancias del Perú |
+
+---
+
+## 📂 Explora el repositorio
+
+- 📄 `ENAHO_SIS_SALUD_FINAL_REVISAR.do` — código de análisis en Stata.
+- 📓 `ejecucion_piura_2026.ipynb` — notebook de análisis presupuestal.
+- 📊 Archivos `.xlsx` — resultados de los ejercicios.
+- 📑 `ANALISIS DE DATOS_PERÚ.pdf` — documento de referencia, si su publicación está permitida.
+
+---
+
+## 👨‍💻 Sobre este portafolio
+
+Soy **Ricardo Valverde Puma**, de formación en Economía, interesado en el análisis estadístico, la automatización y la inteligencia de negocios.
+
+Mi objetivo es desarrollar soluciones que conecten los datos con preguntas reales, utilizando herramientas cuantitativas y tecnológicas.
+
+<p align="center">
+  <a href="https://github.com/Rick-0509">
+    <img src="https://img.shields.io/badge/GitHub-Rick--0509-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ricardo-valverde-puma-a09271337">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Transformando datos en información, e información en decisiones.</i>
+</p>
